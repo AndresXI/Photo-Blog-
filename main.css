@@ -1,0 +1,21 @@
+
+body {
+  color: red;
+}
+
+
+ul {
+  color: blue;
+}
+
+li {
+  color: orange;
+}
+
+.hl {
+  color: brown;
+}
+
+#id {
+  color: yellow;
+}
